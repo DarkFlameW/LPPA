@@ -1,0 +1,56 @@
+﻿body {
+}
+
+.navbar{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1rem;
+    letter-spacing: .1rem;
+    background: rgba(0,0,0,0.6)!important;
+}
+
+.navbar-brand img{
+    height: 2.5rem;
+}
+
+.navbar-nav li{
+    padding-right: .7rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    padding-top: .8rem;
+}
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #87CEFA;
+}
+
+.menu-left{
+    background-color:darkgray;
+    height:535px;
+    margin-left:15px;
+    margin-top:15px;
+}
+
+
+
+.fondo{
+   background-color:darkgray;
+}
+
+.contenedor1{
+   background-color:white;
+   margin-left:15px;
+
+}
+
+.margen{
+    margin-left:10px;
+}
+
+.boton{
+    height: 50px;
+    width: 150px;
+}

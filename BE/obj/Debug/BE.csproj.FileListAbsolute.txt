@@ -1,0 +1,32 @@
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BE\bin\Debug\BE.dll
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BE\bin\Debug\BE.pdb
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BE\obj\Debug\BE.dll
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BE\obj\Debug\BE.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\BE\bin\Debug\BE.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\BE\bin\Debug\BE.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\BE\obj\Debug\BE.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\BE\obj\Debug\BE.pdb
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\gonza\Videos\Trabajo LPPA\BE\bin\Debug\BE.dll
+C:\Users\gonza\Videos\Trabajo LPPA\BE\bin\Debug\BE.pdb
+C:\Users\gonza\Videos\Trabajo LPPA\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\gonza\Videos\Trabajo LPPA\BE\obj\Debug\BE.dll
+C:\Users\gonza\Videos\Trabajo LPPA\BE\obj\Debug\BE.pdb
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BE\bin\Debug\BE.dll
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BE\bin\Debug\BE.pdb
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.dll
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.pdb
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\bin\Debug\BE.dll
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\bin\Debug\BE.pdb
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.csprojAssemblyReference.cache
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.dll
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.pdb
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\bin\Debug\BE.dll
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\bin\Debug\BE.pdb
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.dll
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BE\obj\Debug\BE.pdb

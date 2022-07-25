@@ -1,0 +1,76 @@
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\DAL\bin\Debug\DAL.dll
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\DAL\bin\Debug\DAL.pdb
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\DAL\obj\Debug\DAL.dll
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\DAL\obj\Debug\DAL.pdb
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\DAL\bin\Debug\BE+.dll
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\DAL\bin\Debug\BE+.pdb
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\DAL\bin\Debug\DAL.dll
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\DAL\bin\Debug\DAL.pdb
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\DAL\obj\Debug\DAL.dll
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\DAL\obj\Debug\DAL.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\bin\Debug\DAL.dll
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\bin\Debug\DAL.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\bin\Debug\BE+.dll
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\bin\Debug\BE+.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.dll
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\bin\Debug\DAL.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\bin\Debug\DAL.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\bin\Debug\BE+.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\bin\Debug\BE+.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\DAL\bin\Debug\DAL.dll
+C:\Users\julia\Desktop\Trabajo LPPA\DAL\bin\Debug\DAL.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\DAL\bin\Debug\BE+.dll
+C:\Users\julia\Desktop\Trabajo LPPA\DAL\bin\Debug\BE+.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\julia\Desktop\Trabajo LPPA\DAL\obj\Debug\DAL.dll
+C:\Users\julia\Desktop\Trabajo LPPA\DAL\obj\Debug\DAL.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\DAL\bin\Debug\DAL.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\DAL\bin\Debug\DAL.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\DAL\obj\Debug\DAL.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\DAL\obj\Debug\DAL.pdb
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\DAL\bin\Debug\BE.dll
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\DAL\bin\Debug\BE.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\DAL\bin\Debug\BE.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\DAL\bin\Debug\BE.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\gonza\Videos\Trabajo LPPA\DAL\bin\Debug\DAL.dll
+C:\Users\gonza\Videos\Trabajo LPPA\DAL\bin\Debug\DAL.pdb
+C:\Users\gonza\Videos\Trabajo LPPA\DAL\bin\Debug\BE.dll
+C:\Users\gonza\Videos\Trabajo LPPA\DAL\bin\Debug\BE.pdb
+C:\Users\gonza\Videos\Trabajo LPPA\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\gonza\Videos\Trabajo LPPA\DAL\obj\Debug\DAL.dll
+C:\Users\gonza\Videos\Trabajo LPPA\DAL\obj\Debug\DAL.pdb
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\DAL.dll
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\DAL.pdb
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\BE.dll
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\BE.pdb
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.dll
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.pdb
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\DAL.dll
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\DAL.pdb
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\BE.dll
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\BE.pdb
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.dll
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.pdb
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\DAL.dll
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\DAL.pdb
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\BE.dll
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\bin\Debug\BE.pdb
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.dll
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\DAL\obj\Debug\DAL.pdb

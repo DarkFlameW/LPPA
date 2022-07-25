@@ -1,0 +1,96 @@
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\BLL\bin\Debug\BLL.dll
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\BLL\bin\Debug\BLL.pdb
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\BLL\obj\Debug\BLL.dll
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\BLL\obj\Debug\BLL.pdb
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\BLL\bin\Debug\BE+.dll
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\BLL\bin\Debug\DAL.dll
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\BLL\bin\Debug\BE+.pdb
+c:\users\tomas battistella\documents\visual studio 2013\Projects\Trabajo LPPA\BLL\bin\Debug\DAL.pdb
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BLL\bin\Debug\BLL.dll
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BLL\bin\Debug\BLL.pdb
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BLL\bin\Debug\DAL.dll
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BLL\bin\Debug\DAL.pdb
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BLL\obj\Debug\BLL.dll
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BLL\obj\Debug\BLL.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\BLL.dll
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\BLL.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\BE+.dll
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\DAL.dll
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\BE+.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\DAL.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.dll
+C:\Users\julia\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\BLL.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\BLL.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\BE+.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\DAL.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\BE+.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\bin\Debug\DAL.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\BLL\bin\Debug\BLL.dll
+C:\Users\julia\Desktop\Trabajo LPPA\BLL\bin\Debug\BLL.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\BLL\bin\Debug\BE+.dll
+C:\Users\julia\Desktop\Trabajo LPPA\BLL\bin\Debug\DAL.dll
+C:\Users\julia\Desktop\Trabajo LPPA\BLL\bin\Debug\BE+.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\BLL\bin\Debug\DAL.pdb
+C:\Users\julia\Desktop\Trabajo LPPA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\julia\Desktop\Trabajo LPPA\BLL\obj\Debug\BLL.dll
+C:\Users\julia\Desktop\Trabajo LPPA\BLL\obj\Debug\BLL.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\BLL\bin\Debug\BLL.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\BLL\bin\Debug\BLL.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\BLL\bin\Debug\DAL.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\BLL\bin\Debug\DAL.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\gonza\Desktop\Trabajo LPPA\BLL\obj\Debug\BLL.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\BLL\obj\Debug\BLL.pdb
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BLL\bin\Debug\BE.dll
+C:\Users\Tomas Battistella\Desktop\Trabajo LPPA\BLL\bin\Debug\BE.pdb
+C:\Users\gonza\Desktop\Trabajo LPPA\BLL\bin\Debug\BE.dll
+C:\Users\gonza\Desktop\Trabajo LPPA\BLL\bin\Debug\BE.pdb
+C:\Users\gonza\Videos\Trabajo LPPA\BLL\bin\Debug\BLL.dll
+C:\Users\gonza\Videos\Trabajo LPPA\BLL\bin\Debug\BLL.pdb
+C:\Users\gonza\Videos\Trabajo LPPA\BLL\bin\Debug\BE.dll
+C:\Users\gonza\Videos\Trabajo LPPA\BLL\bin\Debug\DAL.dll
+C:\Users\gonza\Videos\Trabajo LPPA\BLL\bin\Debug\BE.pdb
+C:\Users\gonza\Videos\Trabajo LPPA\BLL\bin\Debug\DAL.pdb
+C:\Users\gonza\Videos\Trabajo LPPA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\gonza\Videos\Trabajo LPPA\BLL\obj\Debug\BLL.dll
+C:\Users\gonza\Videos\Trabajo LPPA\BLL\obj\Debug\BLL.pdb
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BLL.dll
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BLL.pdb
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BE.dll
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\DAL.dll
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BE.pdb
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\DAL.pdb
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.dll
+C:\Users\Horacio\Downloads\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.pdb
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BLL.dll
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BLL.pdb
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BE.dll
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\DAL.dll
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BE.pdb
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\DAL.pdb
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.dll
+E:\facultad\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.pdb
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BLL.dll
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BLL.pdb
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BE.dll
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\DAL.dll
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\BE.pdb
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\bin\Debug\DAL.pdb
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.dll
+D:\facultad\INGENIERIA EN SIS INFORMATICOS\FACULTAD_4TO\Trabajo_LPPA\Trabajo LPPA\BLL\obj\Debug\BLL.pdb

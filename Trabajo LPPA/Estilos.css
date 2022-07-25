@@ -1,0 +1,145 @@
+﻿.body_body {
+    margin:0;
+    padding:0;
+    background-image:url('website-design-background.png');
+    background-size:cover;
+    font-family: sans-serif;
+}
+
+.loginbox{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width:350px;
+    height:420px;
+    padding:80px 40px;
+    box-sizing:border-box;
+    background: rgba(0,0,0,0.5);
+}
+
+.user{
+    width:100px;
+    height:100px;
+    overflow:hidden;
+    top: calc(-100px/2);
+    left:calc(50% - 50px);
+    position:absolute;
+}
+
+h2{
+    padding:0;
+    margin:0;
+    text-align:center;
+    color:rgb(71, 204, 250);
+
+}
+
+.lblnick, .lblpass {
+    font-weight:bold;
+    color:#fff;
+}
+
+.txtnick, .txtpass, .btningresar{
+    width:100%;
+    margin-bottom:20px;
+}
+
+.txtnick, .txtpass{
+    border:none;
+    border-bottom:3px solid #fff;
+    outline:none;
+    height:40px;
+    color:#fff;
+    font-size:16px;
+    background-color:transparent;
+}
+::placeholder{
+    color;rgba(255,255,255,.5);
+}
+.btningresar{
+    border:none;
+    outline:none;
+    height:40px;
+    font-size:16px;
+    color:black;
+    background-color: rgb(255, 255, 255);
+    cursor:pointer;
+    border-radius:20px;
+    transition: .3s ease-in-out;
+}
+
+.btningresar:hover{
+    background-color: rgb(71, 204, 250);
+}
+
+body{
+    overflow-x: hidden;
+    font-family: sans-serif;
+    color: #505962;
+}
+
+/*---Navbar --*/
+.navbar{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1rem;
+    letter-spacing: .1rem;
+    background: rgba(0,0,0,0.6)!important;
+}
+
+.navbar-brand img{
+    height: 2.5rem;
+}
+
+.navbar-nav li{
+    padding-right: .7rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    padding-top: .8rem;
+}
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #87CEFA;
+}
+
+/*--- Background: ---*/
+.home-inner{
+    background-image: url('fondopantalla.jpg');
+}
+
+.caption{
+    width: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 45%;
+    z-index: 1;
+    /*text-transform: uppercase;*/
+}
+
+.caption h1{
+    font-size: 6.5em;
+    font-weight: 600;
+    letter-spacing: .3rem;
+    padding-bottom: 1rem;
+    font-family: sans-serif;
+}
+
+p{
+    font-size:2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
