@@ -8,6 +8,8 @@ namespace BE
 {
     public class Bitacora
     {
+
+        //prueba -ariel
         private string _nick;
 
         public string NickUsuario
